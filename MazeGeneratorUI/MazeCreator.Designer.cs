@@ -61,12 +61,12 @@
             this.WidthValue.ForeColor = System.Drawing.SystemColors.WindowText;
             this.WidthValue.Location = new System.Drawing.Point(138, 350);
             this.WidthValue.Maximum = new decimal(new int[] {
-            2147483647,
+            1073741820,
             0,
             0,
             0});
             this.WidthValue.Minimum = new decimal(new int[] {
-            -2147483648,
+            1073741820,
             0,
             0,
             -2147483648});
@@ -86,12 +86,12 @@
             this.HeightValue.ForeColor = System.Drawing.SystemColors.WindowText;
             this.HeightValue.Location = new System.Drawing.Point(241, 350);
             this.HeightValue.Maximum = new decimal(new int[] {
-            2147483647,
+            1073741820,
             0,
             0,
             0});
             this.HeightValue.Minimum = new decimal(new int[] {
-            2147483647,
+            1073741820,
             0,
             0,
             -2147483648});
